@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 * Variables *
-${CHROME DRIVER PATH}    /usr/bin/chromedriver
+${CHROME DRIVER PATH}    /usr/local/bin/chromedriver
 ${URL}                   https://www.kku.ac.th
 
 * Test Cases *
